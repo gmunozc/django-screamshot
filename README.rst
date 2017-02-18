@@ -1,5 +1,8 @@
+.. image:: https://travis-ci.org/makinacorpus/django-screamshot.svg?branch=master
+    :target: https://travis-ci.org/makinacorpus/django-screamshot
+
 *django-screamshot* is a **very naive** implementation of Web pages capture
-with `CasperJS <http://casperjs.org>`_ (*aaAAaah!*, `phantomjs <http://phantomjs.org>`_:))
+with `CasperJS <http://casperjs.org>`_ (*aaAAaah!*, `phantomjs <http://phantomjs.org>`_:)
 
 (*See the issues pages for more details about what remains to be done.*)
 
